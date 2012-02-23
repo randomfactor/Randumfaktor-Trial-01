@@ -177,10 +177,18 @@ div.field, div.actions {
     margin-bottom: 0;
     padding: 5px;
   }
+}
 
-  ul li {
-    font-size: 12px;
-    list-style: square;
+ul li {
+  font-size: 12px;
+  list-style: square;
+}
+
+ul.users {
+margin-top: 1em;
+  li {
+    list-style: none;
   }
 }
 
+  
